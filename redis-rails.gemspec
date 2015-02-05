@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'redis-store',         '~> 1.1.4'
   s.add_dependency 'redis-activesupport', '~> 3.2.4'
-  s.add_dependency 'redis-actionpack',    '~> 3.2.4'
+  s.add_dependency 'redis-actionpack',    '~> 3.2.5'
 
   s.add_development_dependency 'rake',     '~> 10'
   s.add_development_dependency 'bundler',  '~> 1.3'

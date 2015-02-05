@@ -14,5 +14,5 @@ if ::File.directory?(gem_path = '../redis-activesupport')
 end
 
 if ::File.directory?(gem_path = '../redis-actionpack')
-  gem 'redis-actionpack', '~> 3.2.4', path: gem_path
+  gem 'redis-actionpack', '~> 3.2.5', path: gem_path
 end
